@@ -1,5 +1,3 @@
-
-
 const item = document.querySelector('.item'); // Для того чтобы браузер понимал, что мы хотим переместить элемент, мы в файле html элеvенту с классом item добавляем атрибут draggable="true" 
 const plaseholders = document.querySelectorAll('.placeholder');
 
